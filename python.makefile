@@ -16,3 +16,6 @@ check-venv:
 ifndef VIRTUAL_ENV 
 	$(error VIRTUAL_ENV is undefined)
 endif
+
+
+# vim: set ft=Makefile:
