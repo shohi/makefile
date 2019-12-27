@@ -1,4 +1,6 @@
 # Makefile for python project
+# TODO: https://github.com/jakubroztocil/httpie/blob/master/Makefile
+
 
 clean: check-venv
 	# uninstall package
